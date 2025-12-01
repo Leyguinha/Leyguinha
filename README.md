@@ -6,11 +6,17 @@
 
 <br>
 
-<img align="right" src="https://imgur.com/5XfMWQE.png" width="140" style="border: 4px solid #903cff; border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" alt="Avatar Leyga">
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      I am a fullstack developer. My name is Matheus, but you can call me Leyga. I am 22 years old and originally from Rio de Janeiro. I finished high school at AFA. I am a technology enthusiast. Did you like it? Don’t waste time and come create your project with us. Get in touch through <a href="https://discord.com/users/573676927018336267"><strong>Discord</strong></a> or the email below. We also left the completed projects below so you can see our work.
+    </td>
+    <td width="30%" valign="top" align="center">
+      <img src="https://imgur.com/5XfMWQE.png" width="100%" style="border: 4px solid #903cff; border-radius: 15px;" alt="Avatar Leyga">
+    </td>
+  </tr>
+</table>
 
-I am a fullstack developer. My name is Matheus, but you can call me Leyga. I am 22 years old and originally from Rio de Janeiro. I finished high school at AFA. I am a technology enthusiast. Did you like it? Don’t waste time and come create your project with us. Get in touch through **[Discord](https://discord.com/users/573676927018336267)** or the email below. We also left the completed projects below so you can see our work.
-
-<br clear="all">
 <br>
 <br>
 
@@ -30,7 +36,7 @@ I am a fullstack developer. My name is Matheus, but you can call me Leyga. I am 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=903cff&height=120&section=header&text=🖥️ Languages%20and%20Technologies&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=903cff&height=120&section=header&text=🖥️%20Languages%20and%20Technologies&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Animation">
 </div>
 
 <div align="center">

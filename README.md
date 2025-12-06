@@ -9,7 +9,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="70%" valign="top">
-      I am a fullstack developer. My name is Matheus, but you can call me Leyga. I am 22 years old and originally from Rio de Janeiro. I finished high school at AFA. I am a technology enthusiast. Did you like it? Don’t waste time and come create your project with us. Get in touch through <a href="https://discord.com/users/573676927018336267"><strong>Discord</strong></a> or the email below. We also left the completed projects below so you can see our work.
+      I am a fullstack developer. My name is Matheus, but you can call me Leyga. I am 22 years old and originally from Rio de Janeiro Brazil. I finished high school at AFA. I am a technology enthusiast. Did you like it? Don’t waste time and come create your project with us. Get in touch through <a href="https://discord.com/users/573676927018336267"><strong>Discord</strong></a> or the email below. We also left the completed projects below so you can see our work.
     </td>
     <td width="30%" valign="top" align="center">
       <img src="https://imgur.com/5XfMWQE.png" width="100%" style="border: 4px solid #903cff; border-radius: 15px;" alt="Avatar Leyga">
@@ -36,16 +36,16 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=903cff&height=120&section=header&text=🖥️%20Languages%20and%20Technologies&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=903cff&height=120&section=header&text=🖥️ Languages%20and%20Technologies&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Animation">
 </div>
 
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=black)](#)
-[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black)](#)
-<br>
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](#)
+<br>
+[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black)](#)
 [![MySQL](https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=black)](#)
 [![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=black)](#)
 
